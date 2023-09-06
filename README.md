@@ -12,7 +12,7 @@ The source code and datasets for ISSTA 2023 paper: RefBERT: A Two-Stage Pre-trai
 The required environment is included in `environments.txt`.
 
 ## Data
-The datasets used in experiments can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1aw2yiUTXwB3gJrDcFWeDpYvGgJNYjt51). 
+The datasets used in experiments can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1aw2yiUTXwB3gJrDcFWeDpYvGgJNYjt51) or [阿里云盘](https://www.aliyundrive.com/s/5em3yznNQgT). 
 
 ## How to run
 
